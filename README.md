@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/imer-lopez-98b394198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imer-lopez-98b394198" height="30" width="40" /></a>
 </p>
-
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imerlopez&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imerlopez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
