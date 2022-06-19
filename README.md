@@ -1,9 +1,53 @@
 <h1 align="center">Hi 👋, I'm Imer Lopez</h1>
-<h3 align="center">A passionate student and developer from Belize</h3>
+<h3 align="center">A passionate Student and Developer from Belize</h3>
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Computer Science Student.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  - 👀 I’m interested in Web Development, Mobile Development and Cyber Security
 
 
-- 👀 I’m interested in web development, mobile development and cyber security
-- 🌱 I’m currently learning flutter
+  <br>
+  
+
+</div>
+
+<div>
+
+  ## 📚 &nbsp;Currently studying
+
+  - Flutter
+  - Graphql
+  
+</div>
+
+<div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)&nbsp;
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)&nbsp;
+
+
+  ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
