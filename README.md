@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imer Lopez</h1>
-<h3 align="center">A passionate Student and Developer from Belize</h3>
+<h3 align="center"> A Software Developer from Belize</h3>
 
 <div>
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Computer Science Student.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-  - 👀 I’m interested in Web Development, Mobile Development and Cyber Security
+  - 👀 I’m interested in Web Development, Mobile Development, and Cyber Security
 
 
   <br>
@@ -19,8 +18,8 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Flutter
-  - Graphql
+  - AWS
+  - Docker and Kubernetes
   
 </div>
 
